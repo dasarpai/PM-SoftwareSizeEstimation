@@ -1,0 +1,38 @@
+Structure:
+Definition
+Identification Rule
+FTR Counting
+DET Countring
+Final Countring
+
+What kind of project org want to implement FPA: 
+Project Objective : Dev / Maintenance/ Enhancment
+Application Type : GUI/ Database/ Warehouse / OO/ Embedded/ App Dev
+
+Objective:
+Understand FPA Concepts and Background
+Apply those concepts to your project
+Calculate Efforts and Cost
+Loading Lifecycle Efforts
+Best Practices around FPA
+
+History of FP
+FP is not for
+Software Estimation Risks
+What are the applications of FP?
+
+IFPUG Elements
+Boundaries
+
+DET
+FTR
+RET
+
+ILF
+EIF
+EI
+EO
+EQ
+
+VAF
+Degree of Influence
